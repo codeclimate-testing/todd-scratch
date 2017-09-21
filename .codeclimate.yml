@@ -1,9 +1,0 @@
----
-engines:
-  structure:
-    enabled: true
-  rubocop:
-    enabled: true
-ratings:
-   paths:
-   - "**.rb"
