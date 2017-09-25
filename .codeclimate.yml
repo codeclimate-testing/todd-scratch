@@ -4,7 +4,7 @@ engines:
     enabled: true
     config:
       checks:
-        argument-count:
+        file-lines:
           enabled: false
   rubocop:
     enabled: true
