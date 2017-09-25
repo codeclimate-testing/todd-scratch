@@ -1,0 +1,11 @@
+---
+engines:
+  structure:
+    enabled: true
+    config:
+      checks:
+        method-count:
+          enabled: false
+ratings:
+   paths:
+   - "**.rb"
