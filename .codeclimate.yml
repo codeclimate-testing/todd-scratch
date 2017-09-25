@@ -6,8 +6,6 @@ engines:
       checks:
         file-lines:
           enabled: false
-  rubocop:
-    enabled: true
 ratings:
    paths:
    - "**.rb"
