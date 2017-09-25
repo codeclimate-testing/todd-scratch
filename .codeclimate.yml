@@ -2,6 +2,10 @@
 engines:
   structure:
     enabled: true
+    config:
+      checks:
+        argument-count:
+          enabled: false
   rubocop:
     enabled: true
 ratings:
