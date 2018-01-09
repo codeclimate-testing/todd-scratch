@@ -1,4 +1,8 @@
 ---
+prepare:
+  fetch:
+    - url: "http://example.com"
+      path: "index.html"
 engines:
   eslint:
     enabled: true
