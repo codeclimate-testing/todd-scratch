@@ -1,8 +1,8 @@
 ---
 prepare:
   fetch:
-    - url: "http://example.com"
-      path: "index.html"
+    - url: "https://versions.codeclimate.com/"
+      path: "versions.json"
 engines:
   eslint:
     enabled: true
